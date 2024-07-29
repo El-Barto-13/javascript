@@ -152,7 +152,7 @@ const maxNambers = (number1, number2, number3) => Math.max(number1, number2, num
 console.log(maxNambers(number1, number2, number3));
 */
 
-
+/*
 // Задание 4
 // Необходимо реализовать четыре функции, каждая функция должна принимать по два числа и выполнять одну из операций(каждая функция выполняет одну из них):
 // 1. Сложение
@@ -178,3 +178,5 @@ console.log(`сумма чисел равна ${sumNum(userInputNum1, userInputN
 console.log(`разность чисел равна ${difNum(userInputNum1, userInputNum2)}`);
 console.log(`умножение чисел равно ${multiplicationNum(userInputNum1, userInputNum2)}`);
 console.log(`деление чисел равно ${divisionNum(userInputNum1, userInputNum2)}`);
+*/
+
